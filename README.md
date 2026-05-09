@@ -17,7 +17,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone <KebogdBP>
+git clone https://github.com/KebogdBP/user_service_API_Node.git
 cd user-service
 
 # Установить зависимости
